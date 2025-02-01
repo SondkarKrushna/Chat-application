@@ -16,3 +16,4 @@ The chat application project is a full-stack web application that enables real-t
 Security is a key consideration in this project, with password hashing for authentication and secure WebSocket connections. The app is also designed to be scalable, able to support multiple users simultaneously with minimal latency.
 
 This full-stack chat application provides a comprehensive demonstration of integrating front-end and back-end technologies to create a functional, real-time communication platform.
+![Image](https://github.com/user-attachments/assets/711b07bc-cd9b-4a36-85a7-0b0a7e37c370)
